@@ -1,0 +1,21 @@
+
+
+@font-face {
+	font-family: 'mochafloat';
+	src: url('mochafloat_script-webfont.eot');
+	src: url('mochafloat_script-webfont.svg#mochafloat') format('svg'),
+	url('mochafloat_script-webfont.woff') format('woff'),
+	url('mochafloat_script-webfont.woff2') format('woff2'),
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'moonshine';
+	src: url('moonshine-webfont.eot');
+url('fonts/moonshine-webfont.svg#moonshine') format('svg'),
+url('fonts/moonshine-webfont.woff') format('woff'),
+url('fonts/moonshine-webfont.eot') format('woff2'),
+font-weight: normal;
+	font-style: normal;
+}

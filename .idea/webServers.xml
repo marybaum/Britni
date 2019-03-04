@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="79ec75c5-24a2-4f17-83bd-05ac3498e764" name="nn remote" url="https://nourishingnelli.com">
+        <fileTransfer host="nourishingnelli.com" port="22" rootFolder="/home/wp_uv663z/nourishingnelli.com" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" accurateTimestamps="ALWAYS" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="74fb5f2f-dbae-47d0-aa38-ddcf0a4c354c" name="sandbox" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</project>

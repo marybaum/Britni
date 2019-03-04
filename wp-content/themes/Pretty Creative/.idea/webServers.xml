@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="3d2a6e36-d582-4ffd-aeb5-84b0e2168b8e" name="nourishingnelli.com" url="http://nourishingnelli.com">
+        <fileTransfer host="nourishingnelli.com" port="21" rootFolder="/nourishingnelli.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
